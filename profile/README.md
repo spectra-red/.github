@@ -1,4 +1,4 @@
-# 🛰️ spectra-red
+<img width="1299" height="523" alt="Screenshot 2025-10-27 at 20 15 42" src="https://github.com/user-attachments/assets/cb5c8227-24e3-4ba9-a74a-caf901271bbe" />
 
 > **Structured Reconnaissance. Global Surface Intelligence.**
 
